@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+*-article.html
+selfcheck_article.py
+make_cover.py
+make_shots.py
+publish.py
+shots/
+fixtures/
+*.log

@@ -1,0 +1,29 @@
+2026-10-08 03:10:00 OK run completed in 50s
+2026-10-09 03:10:00 OK run completed in 51s
+2026-10-10 03:10:00 OK run completed in 52s
+2026-10-11 03:10:00 OK run completed in 53s
+2026-10-12 03:10:00 OK run completed in 54s
+2026-10-13 03:10:00 OK run completed in 55s
+2026-10-14 03:10:00 OK run completed in 56s
+2026-10-15 03:10:00 OK run completed in 57s
+2026-10-16 03:10:00 OK run completed in 58s
+2026-10-17 03:10:00 OK run completed in 59s
+2026-10-18 03:10:00 OK run completed in 60s
+2026-10-19 03:10:00 OK run completed in 61s
+2026-10-20 03:10:00 OK run completed in 62s
+2026-10-21 03:10:00 OK run completed in 63s
+2026-10-22 03:10:00 OK run completed in 64s
+2026-10-23 03:10:00 OK run completed in 65s
+2026-10-24 03:10:00 OK run completed in 66s
+2026-10-25 03:10:00 OK run completed in 67s
+2026-10-26 03:10:00 OK run completed in 68s
+2026-10-27 03:10:00 OK run completed in 69s
+2026-10-28 03:10:00 OK run completed in 50s
+2026-10-29 03:10:00 OK run completed in 51s
+2026-10-30 03:10:00 OK run completed in 52s
+2026-10-31 03:10:00 OK run completed in 53s
+2026-11-01 03:10:00 OK run completed in 54s
+2026-11-01 03:10:00 Traceback (most recent call last):
+  File "gen_report.py", line 42, in <module>
+    revenue = row['revenue']
+KeyError: 'revenue'
